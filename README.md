@@ -2,6 +2,7 @@
 Tool to reprogram hardware serial devices via X-Modem protocol
 
 - Download firmwareupdater.jar
+- Use Java VM to run it
 - Select serial device
 - Select firmware.bin binary file
 - Click 'Update'
